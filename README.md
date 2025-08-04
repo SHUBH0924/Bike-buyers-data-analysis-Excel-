@@ -77,3 +77,7 @@ I'm currently:
 - 📚 Currently learning: Power BI and advanced Excel features
 - 💡 Ask me about: Excel dashboards, data cleaning, and insights
 - 😄 Fun fact: I believe Excel is still the most underrated data tool!
+
+## Dashboard 
+<img width="881" height="657" alt="Screenshot 2025-08-04 130310" src="https://github.com/user-attachments/assets/b59939ce-0b35-45e9-85cd-21b80b724c63" />
+
